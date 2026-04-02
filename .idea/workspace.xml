@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e4496f-a2db-41cb-a45d-6feeab01fc20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/python.py" afterDir="false" />
     </list>
@@ -34,7 +33,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;features&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/quoc/Assignments/week5assignment&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/quoc/ScheduleApp&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -89,6 +88,9 @@
       <workItem from="1775060119050" duration="485000" />
       <workItem from="1775060654968" duration="765000" />
       <workItem from="1775061434731" duration="544000" />
+      <workItem from="1775062686304" duration="518000" />
+      <workItem from="1775095485549" duration="46000" />
+      <workItem from="1775095832092" duration="659000" />
     </task>
     <servers />
   </component>
